@@ -1,6 +1,6 @@
 {
   "name": "@plume-design-inc/loopback-swagger",
-  "version": "5.10.2",
+  "version": "5.10.3",
   "description": "Integration between LoopBack and Swagger API specs",
   "engines": {
     "node": ">=8"
